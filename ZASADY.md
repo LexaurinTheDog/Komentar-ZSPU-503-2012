@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona a výklad citované v kapitolách [01-urad-rezerva-hospodareni-prevody.md](01-urad-rezerva-hospodareni-prevody.md), [02-verejna-nabidka-soutez-cena-spolecna.md](02-verejna-nabidka-soutez-cena-spolecna.md), [03-novela-pozemkove-upravy.md](03-novela-pozemkove-upravy.md) a [04-dalsi-novely-ucinnost.md](04-dalsi-novely-ucinnost.md) podle konsolidace `SB-2012-00503_2026-01-01`. Repozitář neobsahuje místní judikaturu; zásady níže jsou proto dovozeny z textu zákona, jeho systematiky a výkladu v kapitolách — nikoli z judikatorních tezí. Tam, kde by u jiného předpisu stála judikatorní citace, je poctivé uvést, že opora v místních pramenech chybí a bude ji třeba doplnit.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona a výklad citované v kapitolách [01-urad-rezerva-hospodareni-prevody.md](01-urad-rezerva-hospodareni-prevody.md), [02-verejna-nabidka-soutez-cena-spolecna.md](02-verejna-nabidka-soutez-cena-spolecna.md), [03-novela-pozemkove-upravy.md](03-novela-pozemkove-upravy.md) a [04-dalsi-novely-ucinnost.md](04-dalsi-novely-ucinnost.md) podle konsolidace `SB-2012-00503_2026-01-01`. Místní judikaturu tvoří jediná karta — [NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md) (25. 3. 2021, kat. A), citovaná v kapitole 01 u § 4 a § 10; zásady níže jsou proto dovozeny především z textu zákona, jeho systematiky a výkladu v kapitolách a karta je připojena jen k zásadě 1, které se týká. Tam, kde by u jiného předpisu stála judikatorní citace, je poctivé uvést, že opora v místních pramenech chybí a bude ji třeba doplnit.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení. Každá citace v uvozovkách je doslovně převzata z uvedené kapitoly; vynechané úseky (zejména čísla poznámek pod čarou) jsou označeny třemi tečkami.
 
@@ -44,6 +44,12 @@ a kapitola 01 jeho funkci vysvětluje slovy: „Cenový strop chrání veřejné
 Ochranu hodnoty majetku státu doplňují zajišťovací instituty: záloha ve výši kupní ceny (§ 14 odst. 3) a podmínka bezdlužnosti nabyvatele vůči státu (§ 16 odst. 1). Kapitola 02 shrnuje účel zálohy větou: „Stát tak nenese riziko neplacení — splátkový režim zákon v konsolidovaném znění nezná“. Podmínky na straně nabyvatele jsou formulovány kogentně:
 
 > „Smlouvu o převodu zemědělského pozemku, s nímž je Státní pozemkový úřad příslušný hospodařit, lze uzavřít pouze s osobou, která“
+
+Zásadu podpírá místní karta [NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md), citovaná v kapitole 01 u § 4 a § 10. Podle její právní věty platí:
+
+> „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky"
+
+§ 60a zákona č. 219/2000 Sb. upravuje bezúplatný převod pozemků tvořících funkční celek se stavbami bytových družstev a převod podílů na nich vlastníkům jednotek. Bezúplatnost se tedy u pozemků SPÚ nedá „vypůjčit“ z obecného předpisu ani analogií; musí plynout z titulu, který stanoví ZSPU nebo jiný předpis. Hranice: karta obsahuje jen právní větu bez skutkového a procesního kontextu, týká se výlučně § 60a (ne jiných ustanovení zákona č. 219/2000 Sb.) a byla vydána ke znění účinnému v rozhodné době, nikoli ke konsolidaci k 1. 1. 2026.
 
 Praktickým důsledkem zásady je, že každá odchylka od ceny obvyklé (zjištěné) musí mít výslovnou oporu v ZSPU; obecná úvaha o vhodnosti nižší ceny nestačí.
 

@@ -270,11 +270,13 @@ Bylo-li zahájeno řízení podle odst. 3 a před jeho skončením požádala o 
 - *NS* [32 Cdo 3237/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2776664F77C426A5C1258703001870CF?openDocument) — 25. 3. 2021, kat. A
   > „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky"
 
+**K místní judikaturní kartě NS 32 Cdo 3237/2019:** Karta ([judikatura/NS-32-Cdo-3237-2019.md](judikatura/NS-32-Cdo-3237-2019.md)) míří na § 4 přímo — dopadá na odst. 1 větu třetí, podle níž se ustanovení zákona č. 219/2000 Sb. upravující nakládání s majetkem státu ve prospěch jiných osob na nemovitosti, s nimiž SPÚ hospodaří, vztahují jen tehdy, nestanoví-li ZSPU nebo jiný předpis jinak. Podle právní věty se na nakládání SPÚ s pozemky, k nimž mu přísluší právo hospodaření, § 60a zákona č. 219/2000 Sb. nevztahuje a nelze jej použít ani analogicky. § 60a tohoto zákona (v místní konsolidaci `SB-2000-00219_2026-01-01`) upravuje **bezúplatný** převod pozemku tvořícího funkční celek s bytovým domem, rodinným domem nebo garáží ve vlastnictví bytového družstva vzniklého před 1. 1. 1992 (nebo jeho právního nástupce) a převod spoluvlastnických podílů k takovému pozemku vlastníkům jednotek. Z karty tedy plyne, že podpůrné použití zákona č. 219/2000 Sb. nelze chápat jako automatickou použitelnost každého jeho dispozičního ustanovení: bezúplatný převod pozemku, s nímž SPÚ hospodaří, vyžaduje titul v ZSPU (§ 14 odst. 1 — úplatnost, „pokud tento zákon nestanoví jinak“) nebo v jiném předpisu, a mezeru v ZSPU nelze překlenout analogií k § 60a. **Hranice závěru:** karta obsahuje pouze právní větu; skutkové okolnosti (kdo a o jaký pozemek žádal), procesní situace a nosné důvody z ní nevyplývají a plný text rozhodnutí místní podklady neobsahují. Závěr se výslovně týká jen § 60a — nelze z něj bez dalšího dovozovat nepoužitelnost jiných ustanovení zákona č. 219/2000 Sb. (vyloučení § 27 plyne samostatně z odst. 4 věty druhé). Rozhodnutí z 25. 3. 2021 vychází ze znění ZSPU a zákona č. 219/2000 Sb. účinného v rozhodné době, které místní podklady neobsahují; komentář pracuje s konsolidací k 1. 1. 2026, v níž odst. 1 věta třetí i § 60a zákona č. 219/2000 Sb. obsaženy jsou, shodu se zněním v rozhodné době však z místních podkladů ověřit nelze.
+
 #### Okruh majetku (odst. 1–3)
 
 SPÚ je příslušný hospodařit (1) s nemovitostmi, které ke dni předcházejícímu účinnosti zákona (tj. k 31. 12. 2012) spravoval Pozemkový fond České republiky podle jiného předpisu (pozn. 4 odkazuje na zákon č. 229/1991 Sb. a zákon č. 290/2002 Sb.), (2) s majetkem nabytým v souladu se zákonem č. 219/2000 Sb., (3) se stavbami k vodohospodářským melioracím pozemků a souvisejícími vodními díly ve vlastnictví státu — buď převzatými od fondu, nebo (nespravoval-li je fond) ex lege ode dne účinnosti zákona, a (4) s hlavními závlahovými a odvodňovacími zařízeními a stavbami k ochraně před erozní činností vody, které sám pořizuje výstavbou nebo nabytím do majetku státu.
 
-**Vztah k zákonu č. 219/2000 Sb.** Odst. 1 věta třetí stanoví, že ustanovení zákona o majetku České republiky upravující nakládání s majetkem státu ve prospěch jiných osob se na tyto nemovitosti použijí jen tehdy, nestanoví-li ZSPU nebo jiný předpis (pozn. 5: zákon č. 229/1991 Sb. a zákon č. 92/1991 Sb.) jinak. ZSPU je tedy vůči zákonu č. 219/2000 Sb. speciálním předpisem pro dispozice (převody, bezúplatné převody, užívání); obecná úprava nastupuje podpůrně tam, kde ZSPU mlčí.
+**Vztah k zákonu č. 219/2000 Sb.** Odst. 1 věta třetí stanoví, že ustanovení zákona o majetku České republiky upravující nakládání s majetkem státu ve prospěch jiných osob se na tyto nemovitosti použijí jen tehdy, nestanoví-li ZSPU nebo jiný předpis (pozn. 5: zákon č. 229/1991 Sb. a zákon č. 92/1991 Sb.) jinak. ZSPU je tedy vůči zákonu č. 219/2000 Sb. speciálním předpisem pro dispozice (převody, bezúplatné převody, užívání); obecná úprava nastupuje podpůrně tam, kde ZSPU mlčí. Podpůrnost však není bezvýjimečná: podle místní karty NS 32 Cdo 3237/2019 se na pozemky, s nimiž SPÚ hospodaří, nevztahuje § 60a zákona č. 219/2000 Sb. (bezúplatné převody pozemků pod stavbami bytových družstev a vlastníkům jednotek), a to ani analogicky; mlčení ZSPU o takovém převodu tedy neotevírá cestu k bezúplatnému převodu podle obecného předpisu.
 
 #### Přenechání do užívání a nájemné (odst. 4)
 
@@ -302,14 +304,16 @@ Pravidla výpočtu ročního nájemného za pozemky tvořící zemědělský pů
 #### G. Protiargumenty a rizika
 
 - *„Zákon o majetku ČR je obecným režimem pro veškerý majetek státu.“* Neutralizace: odst. 1 věta třetí a odst. 4 věta druhá stanoví výslovnou přednost ZSPU.
+- *„ZSPU bezúplatný převod pozemku pod stavbou bytového družstva neupravuje, proto se podpůrně (nebo analogicky) použije § 60a zákona č. 219/2000 Sb.“* Neutralizace: tuto otázku řeší místní karta NS 32 Cdo 3237/2019 — § 60a se na nakládání SPÚ s pozemky, k nimž mu přísluší právo hospodaření, nevztahuje a nelze jej aplikovat ani analogicky. Hranice: karta neobsahuje skutkový ani procesní kontext a vztahuje se jen k § 60a.
 - *Slabé místo:* vymezení, co je „nemovitou věcí podle § 1 zákona č. 229/1991 Sb.“, může být u smíšených souborů (pozemek a stavba) sporné; pro každou věc je třeba kvalifikaci provést samostatně. Podmínky odchýlení se od vyhláškových sazeb závisí na textu vyhlášky, kterou je nutné ověřit v aktuálním znění.
 
 #### H. Praktický závěr
 
-§ 4 vymezuje majetek, s nímž SPÚ hospodaří (majetek fondu, meliorační a protierozní stavby), stanoví přednost ZSPU před zákonem č. 219/2000 Sb. a vylučuje § 27 tohoto zákona u zemědělského majetku a pozemků pro společná zařízení; nájemné za zemědělské pozemky se řídí vyhláškou ministerstva.
+§ 4 vymezuje majetek, s nímž SPÚ hospodaří (majetek fondu, meliorační a protierozní stavby), stanoví přednost ZSPU před zákonem č. 219/2000 Sb. a vylučuje § 27 tohoto zákona u zemědělského majetku a pozemků pro společná zařízení; nájemné za zemědělské pozemky se řídí vyhláškou ministerstva. Podpůrné použití zákona č. 219/2000 Sb. má hranice: § 60a tohoto zákona se na pozemky SPÚ nepoužije ani analogicky (místní karta NS 32 Cdo 3237/2019).
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Je věc zemědělským majetkem podle § 1 zákona č. 229/1991 Sb. nebo pozemkem pro společná zařízení?
+- [ ] Opírá se požadavek o bezúplatný převod o § 60a zákona č. 219/2000 Sb.? U pozemků SPÚ je vyloučen i analogicky (NS 32 Cdo 3237/2019); titul je třeba hledat v ZSPU nebo v jiném předpisu, který stanoví jinak.
 - [ ] Uplatní se § 27 zákona č. 219/2000 Sb., nebo je vyloučen?
 - [ ] Odpovídá nájemné (pachtovné) vyhláškovým sazbám a výrobní oblasti?
 - [ ] U melioračních staveb ověřit, zda jde o hlavní zařízení ve vlastnictví státu.
@@ -799,6 +803,8 @@ U fyzických osob zákon nevyžaduje status zemědělského podnikatele — rozh
 - *NS* [32 Cdo 3237/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2776664F77C426A5C1258703001870CF?openDocument) — 25. 3. 2021, kat. A
   > „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky"
 
+**K místní judikaturní kartě NS 32 Cdo 3237/2019:** Pro § 10 je karta ([judikatura/NS-32-Cdo-3237-2019.md](judikatura/NS-32-Cdo-3237-2019.md)) relevantní jen **nepřímo**: právní věta § 10 nezmiňuje a nevykládá žádný z jeho znaků (oprávněný uživatel, funkční spojení se stavbou, okruh nabyvatelů podle § 9). Věcná souvislost spočívá v tom, že § 10 odst. 3 až 5 i § 60a zákona č. 219/2000 Sb. řeší převod pozemku spojeného se stavbou na vlastníka stavby; § 60a však (podle místní konsolidace `SB-2000-00219_2026-01-01`) zakládá **bezúplatný** převod pozemku tvořícího funkční celek s bytovým domem, rodinným domem nebo garáží ve vlastnictví bytového družstva vzniklého před 1. 1. 1992 (nebo jeho nástupce), případně podílů na pozemku vlastníkům jednotek. Z karty plyne, že u pozemků, s nimiž SPÚ hospodaří, se vlastník takové stavby nemůže domáhat bezúplatného převodu podle § 60a ani jeho analogií; ZSPU převod pozemku na vlastníka stavby upravuje v § 10 jako převod **úplatný** (§ 14 odst. 1) a podmíněný okruhem nabyvatelů podle § 9 — bytové družstvo, které není zemědělským podnikatelem, do něj podle § 9 písm. b) nepatří. Karta tak podporuje závěr oddílu o úplatnosti převodů podle § 10 a neutralizaci námitky bezúplatnosti v oddílu G. **Hranice závěru:** karta neříká, zda konkrétní žadatel splňuje podmínky § 10, ani nic o ceně, oprávněném užívání nebo funkčním spojení; skutkové okolnosti a procesní kontext rozhodnutí (kdo a o jaký pozemek žádal, v jakém řízení) z ní nevyplývají a plný text místní podklady neobsahují. Časovou vrstvu § 10 odst. 3 (§ 50 odst. 2, § 22 odst. 11) karta neřeší — zůstává výkladovou otázkou. Rozhodnutí z 25. 3. 2021 bylo vydáno ke znění účinnému v rozhodné době, které místní podklady neobsahují; komentář vychází z konsolidace k 1. 1. 2026.
+
 #### Úplatnost a způsobilost nabyvatele
 
 Převody podle § 10 jsou **úplatné** — na rozdíl od § 7 zákon bezúplatnost nestanoví, uplatní se proto § 14 odst. 1 (nejméně cena obvyklá, nebo cena zjištěná, je-li vyšší), záloha ve výši kupní ceny (§ 14 odst. 3) a podmínky § 16. Nabyvatel musí patřit do okruhu podle § 9. Žádost osoby podle § 10 má přednost před veřejnou nabídkou — podá-li ji v průběhu veřejné nabídky, ta se v příslušné části ruší (§ 12 odst. 5).
@@ -840,7 +846,7 @@ Od 1. 1. 2014 je stavba zpravidla součástí pozemku (zásada superficies solo 
 
 #### G. Protiargumenty a rizika
 
-- *„Převod je bezúplatný, protože jde o narovnání vztahů ke stavbě.“* Neutralizace: § 10 bezúplatnost nestanoví; platí § 14 odst. 1.
+- *„Převod je bezúplatný, protože jde o narovnání vztahů ke stavbě.“* Neutralizace: § 10 bezúplatnost nestanoví; platí § 14 odst. 1. Ani odkaz na bezúplatný převod pozemku pod stavbou bytového družstva podle § 60a zákona č. 219/2000 Sb. neobstojí: podle místní karty NS 32 Cdo 3237/2019 se toto ustanovení na pozemky, s nimiž SPÚ hospodaří, nevztahuje a nelze je použít ani analogicky (karta k § 10 míří nepřímo a nevykládá jeho znaky).
 - *„Pozemek je funkčně spojen, protože jej žadatel užívá.“* Neutralizace: užívání samo nestačí, rozhoduje objektivní vazba na provoz stavby.
 - *Slabé místo:* „funkční spojení“ a „oprávněný uživatel“ nejsou definovány; nejasná je i časová vrstva odst. 3 (§ 50 odst. 2, § 22 odst. 11).
 
@@ -854,6 +860,7 @@ Od 1. 1. 2014 je stavba zpravidla součástí pozemku (zásada superficies solo 
 - [ ] Je doloženo funkční spojení se stavbou?
 - [ ] Splňuje žadatel § 9 a § 16 a nebrání převodu § 6?
 - [ ] Ověřit časovou vrstvu odst. 3 ke dni podání žádosti.
+- [ ] Neopírá se žádost o bezúplatnost podle § 60a zákona č. 219/2000 Sb.? U pozemků SPÚ je vyloučena i analogicky (NS 32 Cdo 3237/2019).
 
 **Typicky rozhodné důkazy / podklady:** písemná žádost, výpis z katastru, nájemní/pachtovní smlouva, rozhodnutí o umístění stavby, územní plán, situační plánek, znalecký posudek o ceně, doklad o zaplacení zálohy.
 

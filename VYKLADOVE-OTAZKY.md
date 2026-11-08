@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou (složka `judikatura/` se doplní strojově později). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; složka `judikatura/` obsahuje jedinou místní kartu rozhodnutí ([NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md), citovanou u § 4 a § 10). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -122,7 +122,7 @@ Místní dokument zásad výslovně pojmenovává:
 - Právní jistota při převodu pozemku bez listinného titulu státu
 - Právní kontinuita a univerzální nástupnictví státu
 
-Typické střety zachycené v kapitolách: úplatnost × bezúplatné převody obcím a krajům (vyvážené účelovou vázaností podle § 8); přednost dlouholetého nájemce × rovnost uchazečů ve veřejné nabídce (vyvážené limitem 70 % výměry); nárok žadatele, který splnil podmínky × přednost rezervy pro rozvojové programy (§ 3 odst. 6); ochrana skutečného vlastníka × právní jistota nabyvatele (§ 20). Kapitola 01 k pořadí při souběhu žádostí uvádí, že „§ 10c stanoví věcné pořadí, nikoli časovou prioritu, jde-li o souběh nevyřízených žádostí.“ Zásady jsou v místním korpusu dovozeny z textu a systematiky, nikoli z judikatury.
+Typické střety zachycené v kapitolách: úplatnost × bezúplatné převody obcím a krajům (vyvážené účelovou vázaností podle § 8); přednost dlouholetého nájemce × rovnost uchazečů ve veřejné nabídce (vyvážené limitem 70 % výměry); nárok žadatele, který splnil podmínky × přednost rezervy pro rozvojové programy (§ 3 odst. 6); ochrana skutečného vlastníka × právní jistota nabyvatele (§ 20). Kapitola 01 k pořadí při souběhu žádostí uvádí, že „§ 10c stanoví věcné pořadí, nikoli časovou prioritu, jde-li o souběh nevyřízených žádostí.“ Zásady jsou v místním korpusu dovozeny především z textu a systematiky; judikaturou je podepřena jen zásada úplatnosti (karta NS 32 Cdo 3237/2019: bezúplatný převod podle § 60a zákona č. 219/2000 Sb. se na pozemky SPÚ nepoužije ani analogicky).
 
 **Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty, intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu.
 
@@ -131,10 +131,15 @@ Typické střety zachycené v kapitolách: úplatnost × bezúplatné převody o
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou kartu rozhodnutí (**0** karet); soubor zásad odkazuje na **0** místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku. Složka `judikatura/` se doplní strojově později. Úvod to výslovně uvádí: „Komentář neuvádí konkrétní soudní rozhodnutí ani spisové značky, které by nebyly doloženy místními zdroji.“
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet. Jde o mezeru, nikoli o zjištění, že rozhodovací praxe k ZSPU neexistuje.
+Složka `judikatura/` obsahuje **1** kartu: [NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md) (Nejvyšší soud, 25. 3. 2021, kat. A). Kapitola 01 ji cituje u § 4 a u § 10, soubor zásad u zásady 1 (úplatnost); jiná spisová značka v komentáři není. Úvod nadále uvádí: „Komentář neuvádí konkrétní soudní rozhodnutí ani spisové značky, které by nebyly doloženy místními zdroji.“
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (zejména u předpisů o Pozemkovém fondu ČR, které ZSPU nahradil). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby chybějící místní judikaturu označujte jako mezeru.
+Právní věta karty: „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky"
+- **§ 4 (přímo):** karta řeší otázku, zda lze na pozemky SPÚ podpůrně nebo analogicky použít bezúplatný převod pozemků pod stavbami bytových družstev podle § 60a zákona č. 219/2000 Sb. — nelze. Konkretizuje tak odst. 1 větu třetí: podpůrné použití obecného předpisu není bezvýjimečné a bezúplatnost musí mít titul v ZSPU nebo jiném předpisu.
+- **§ 10 (nepřímo):** karta nevykládá znaky § 10 (oprávněný uživatel, funkční spojení, § 9), ale vylučuje, aby se vlastník stavby u pozemku SPÚ domohl bezúplatného převodu přes § 60a; převod podle § 10 zůstává úplatný (§ 14 odst. 1).
+
+**Hranice.** Karta obsahuje jen právní větu; skutkové okolnosti, procesní situace a nosné důvody z ní nevyplývají a plný text místní podklady neobsahují. Závěr se týká výlučně § 60a, ne jiných ustanovení zákona č. 219/2000 Sb. Rozhodnutí bylo vydáno ke znění účinnému v rozhodné době, které místní podklady neobsahují; komentář vychází z konsolidace k 1. 1. 2026. Pro ostatních 48 komentovaných ustanovení místní judikatura není — jde o mezeru, nikoli o zjištění, že rozhodnutí k nim neexistují; judikatorní odpověď se tam nesmí domýšlet.
+
+**Jak ji řešit.** U karty NS 32 Cdo 3237/2019 i u případných dalších karet oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady; u této karty je třeba výslovně uvést, že místně je k dispozici jen právní věta. Ověřte, zda soud vykládal stejné znění a stejný právní problém (zejména u předpisů o Pozemkovém fondu ČR, které ZSPU nahradil). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo — např. na jiná ustanovení zákona č. 219/2000 Sb. nebo na znaky § 10; chybějící místní judikaturu u ostatních ustanovení označujte jako mezeru.
 
 **Místní opora.** [úvod — metodická poznámka](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -167,7 +172,7 @@ Každé z 50 komentovaných ustanovení má oddíl „G. Protiargumenty a rizika
 
 Příklad autorské preference s otevřeně přiznanou nejistotou: u § 12 kapitola 02 uvádí, že „rozumně lze dovodit, že změna nabídky (např. vyřazení pozemku) je přípustná, kdežto změna smluvních podmínek vůči již přihlášeným žadatelům nikoli.“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument zatím chybí. Není-li spor místními prameny řešitelný (zejména tam, kde chybí historické znění), zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument je k dispozici jen u § 4 a § 10 (karta NS 32 Cdo 3237/2019 k nepoužitelnosti § 60a zákona č. 219/2000 Sb.), u ostatních sporů chybí. Není-li spor místními prameny řešitelný (zejména tam, kde chybí historické znění), zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 01](01-urad-rezerva-hospodareni-prevody.md); [kapitola 02](02-verejna-nabidka-soutez-cena-spolecna.md); [kapitola 03](03-novela-pozemkove-upravy.md); [kapitola 04](04-dalsi-novely-ucinnost.md); [místní zásady](ZASADY.md)
 
@@ -185,15 +190,15 @@ Ukázka výslovné subsumpce z § 25: „Pozemkové úpravy byly zahájeny před
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitol a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **5** kapitol a **1** kartu rozhodnutí (NS 32 Cdo 3237/2019), doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neexistuje (složka `judikatura/` se doplní strojově později) a neposkytuje citovatelnou tezi;
+- místní judikaturu tvoří jediná karta (NS 32 Cdo 3237/2019, jen právní věta bez skutkového a procesního kontextu), citovaná u § 4 a § 10; ostatních 48 ustanovení citovatelnou judikatorní tezi nemá;
 - místní důvodová zpráva v repozitáři není;
 - historická znění ZSPU (zejména původní § 10 odst. 3) a znění účinné od 1. 1. 2027 místní podklady neobsahují;
 - přechodná ustanovení novel zákona o pozemkových úpravách a historická znění řady novelizovaných předpisů nejsou místně k dispozici.
 
 Úvod k tomu výslovně uvádí: „Znění účinné od 1. 1. 2027 v místních podkladech k dispozici není a komentář se k němu nevyjadřuje.“
-Aktualizaci musí spustit zejména změna místního znění předpisu (nejpozději k 1. 1. 2027), doplnění místních karet rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména změna místního znění předpisu (nejpozději k 1. 1. 2027), doplnění dalších místních karet rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 

@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři výkladové kapitoly), **50 samostatně nadepsaných ustanovení**, **38 modalitních příkladů**, **8 zásad** a **0 místních karet rozhodnutí**. Místní důvodová zpráva v repozitáři není; složka `judikatura/` se doplní strojově později. Obě absence jsou níže vedeny jako mezery, nikoli jako důkaz, že pramen neexistuje.
+Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři výkladové kapitoly), **50 samostatně nadepsaných ustanovení**, **38 modalitních příkladů**, **8 zásad** a **1 místní kartu rozhodnutí** ([NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md), citovanou v kapitole 01 u § 4 a § 10). Místní důvodová zpráva v repozitáři není a ostatních 48 komentovaných ustanovení je bez místní judikatury; obě mezery jsou níže vedeny jako mezery, nikoli jako důkaz, že pramen neexistuje.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -236,12 +236,15 @@ Prostředky ochrany jsou místně zachyceny jen dílčím způsobem: odvolání 
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí; složka se doplní strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 rozpoznaných citací spisových značek**. Komentář tento stav uvádí sám:
+Složka [judikatura/](judikatura/README.md) obsahuje **1 místní kartu**: [NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md) (Nejvyšší soud, 25. 3. 2021, kat. A). Kapitola 01 ji cituje **dvakrát** — u § 4 a u § 10 — a soubor zásad na ni odkazuje u zásady 1 (úplatnost). Komentář nadále uvádí jen místně doložená rozhodnutí:
 - [Komentář k zákonu č. 503/2012 Sb.](00-uvod.md): „Komentář neuvádí konkrétní soudní rozhodnutí ani spisové značky, které by nebyly doloženy místními zdroji.“
 - [Poznámka k metodě](00-uvod.md): „Komentář neuvádí judikaturu, kterou by nebylo možné doložit z místních pramenů“
-- [ZASADY.md](ZASADY.md) proto zásady dovozuje z textu zákona, systematiky a výkladu v kapitolách, nikoli z judikatorních tezí.
 
-Místní korpus neposkytuje kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Jde o mezeru, kterou zaplní až strojové doplnění složky `judikatura/`; do té doby jsou všechny závěry v kapitolách textové nebo syntetické.
+**Co z karty plyne.** Právní věta zní: „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky" (citováno v [§ 4 a § 10](01-urad-rezerva-hospodareni-prevody.md)). § 60a zákona č. 219/2000 Sb. upravuje bezúplatný převod pozemků tvořících funkční celek se stavbami bytových družstev vzniklých před 1. 1. 1992 a převod podílů na nich vlastníkům jednotek.
+- **§ 4 — přímo (Judikatura):** karta konkretizuje odst. 1 větu třetí; podpůrné použití zákona č. 219/2000 Sb. není bezvýjimečné a mezeru v ZSPU nelze překlenout analogií k § 60a.
+- **§ 10 — nepřímo (Syntéza):** karta nevykládá znaky § 10, ale potvrzuje, že vlastník stavby nemůže u pozemku SPÚ dosáhnout bezúplatného převodu přes § 60a; převod podle § 10 zůstává úplatný (§ 14 odst. 1) a vázaný na § 9.
+
+**Hranice.** Karta obsahuje jen právní větu; výrok, nosné důvody, skutkové okolnosti a procesní situace z ní nevyplývají a plný text místní podklady neobsahují. Závěr se týká výlučně § 60a, nikoli jiných ustanovení zákona č. 219/2000 Sb. Rozhodnutí bylo vydáno ke znění účinnému v rozhodné době, které místní podklady neobsahují; komentář pracuje s konsolidací k 1. 1. 2026. Ostatních 48 komentovaných ustanovení místní judikaturu nemá — tam jsou závěry textové nebo syntetické a judikatorní závěr se nesmí domýšlet.
 
 Otázky, u nichž kapitoly samy upozorňují na chybějící judikatorní oporu nebo na potřebu soudního řešení: ústavní konformita domněnky vlastnictví státu a vztah k ochraně dobré víry (§ 20), následky smlouvy uzavřené v rozporu s § 16, povaha dohody o pokračování zatímního užívání (§ 25 bod 1), přezkum potřebnosti pozemku pro rozvojový program (§ 3).
 
@@ -271,7 +274,7 @@ Konkurenční výklady jsou v místních kapitolách katalogizovány systematick
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; neutralizaci v oddílu G berte jako autorský návrh, nikoli jako ustálený závěr.
-- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument je k dispozici jen u § 4 a § 10 (karta NS 32 Cdo 3237/2019 k nepoužitelnosti § 60a zákona č. 219/2000 Sb.), u ostatních sporů chybí.
 - Porovnejte praktické následky variant (např. pro žadatele, který ztratí přednost, nebo pro stát vystavený náhradě) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Kde spor závisí na historickém znění, které místní podklady neobsahují (§ 10 odst. 3, § 22 odst. 11, 12 a 15), zachovejte varianty a označte nejistotu.
 
@@ -281,7 +284,7 @@ Konkurenční výklady jsou v místních kapitolách katalogizovány systematick
 
 **Zjištění z místního komentáře.**
 Systematické vazby jsou soustředěny v úvodní sekci [Vazby na jiné předpisy](00-uvod.md) a v novelizačních kapitolách [03](03-novela-pozemkove-upravy.md) a [04](04-dalsi-novely-ucinnost.md).
-- **Specialita vůči zákonu o majetku ČR** — [Co tento zákon je](00-uvod.md): „Zákon je proto zároveň zvláštním předpisem vůči zákonu o majetku České republiky“; [§ 4](01-urad-rezerva-hospodareni-prevody.md): „odst. 1 věta třetí a odst. 4 věta druhá stanoví výslovnou přednost ZSPU.“
+- **Specialita vůči zákonu o majetku ČR** — [Co tento zákon je](00-uvod.md): „Zákon je proto zároveň zvláštním předpisem vůči zákonu o majetku České republiky“; [§ 4](01-urad-rezerva-hospodareni-prevody.md): „odst. 1 věta třetí a odst. 4 věta druhá stanoví výslovnou přednost ZSPU.“ Hranici podpůrného použití zákona č. 219/2000 Sb. dokládá místní karta [NS 32 Cdo 3237/2019](judikatura/NS-32-Cdo-3237-2019.md): § 60a tohoto zákona se na pozemky SPÚ nepoužije ani analogicky.
 - **Výlučnost privatizačního režimu** — [§ 5](01-urad-rezerva-hospodareni-prevody.md): „se nakládá pouze podle zákona č. 92/1991 Sb., ve znění pozdějších předpisů.“
 - **Restituční předpis jako předpoklad** — [§ 12](02-verejna-nabidka-soutez-cena-spolecna.md): veřejná nabídka podle ZSPU navazuje na trojí marnou nabídku podle § 11a zákona č. 229/1991 Sb.
 - **Správní řád a zvláštní úprava** — [§ 29](04-dalsi-novely-ucinnost.md): „vztah obecného zákona č. 500/1990 Sb. a zvláštní úpravy ZSPU není výslovně řešen; přednost zvláštní úpravy je výkladovým závěrem.“
@@ -325,7 +328,7 @@ Ukázka výslovné subsumpce z místního textu — [§ 6](01-urad-rezerva-hospo
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **5 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- repozitář neobsahuje místní karty rozhodnutí; složka `judikatura/` se doplní strojově později a soubor zásad zatím neodkazuje na citovatelnou judikatorní tezi;
+- místní judikaturu tvoří jediná karta (NS 32 Cdo 3237/2019, citovaná u § 4 a § 10, v zásadách u zásady 1); ostatních 48 komentovaných ustanovení je bez místní judikatury a karta sama obsahuje jen právní větu bez skutkového a procesního kontextu;
 - repozitář neobsahuje místní důvodovou zprávu; historický a účelový argument se opírá jen o výklad v kapitolách;
 - místní podklady neobsahují historická znění ZSPU (zejména původní § 10 odst. 3) ani znění účinné od 1. 1. 2027;
 - místní podklady nezahrnují přechodná ustanovení jednotlivých novel zákona o pozemkových úpravách a historická znění řady novelizovaných předpisů (kapitoly 03 a 04);
@@ -347,22 +350,22 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu č. 503/2012 Sb.](00-uvod.md) | ano | nenalezeno | ano | jen zmínka o absenci | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — § 1–10d](01-urad-rezerva-hospodareni-prevody.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Komentář k zákonu č. 503/2012 Sb.](00-uvod.md) | ano | nenalezeno | ano | odkaz na 1 kartu | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — § 1–10d](01-urad-rezerva-hospodareni-prevody.md) | ano | ano | ano | ano (1 karta, § 4 a § 10) | ano | ano | ano | ano |
 | [Kapitola 2 — § 12–23](02-verejna-nabidka-soutez-cena-spolecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3 — § 24–25](03-novela-pozemkove-upravy.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 4 — § 26–50](04-dalsi-novely-ucinnost.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** místní karta ani citace rozhodnutí nebyla nalezena v žádné z 5 kapitol; po strojovém doplnění složky `judikatura/` je nutné znovu projít vrstvy 7 až 10.
+- **Judikatura:** jediná místní karta (NS 32 Cdo 3237/2019) je citována v kapitole 01 u § 4 (přímo) a § 10 (nepřímo); kapitoly 02 až 04 citaci rozhodnutí neobsahují. Při doplnění dalších karet je nutné znovu projít vrstvy 7 až 10.
 - **Pojmy:** samostatný signál pojmové vrstvy nebyl nalezen v 1 z 5 kapitol: [Kapitola 3 — § 24–25](03-novela-pozemkove-upravy.md) (pojem zatímního bezúplatného užívání je vyložen jen v rámci § 25).
 - **Důkazy a aplikace:** v úvodu [00-uvod.md](00-uvod.md) signál nebyl nalezen; jde o přehledovou kapitolu bez kazuistik.
 - **Časová vrstva:** nejvyšší priorita aktualizace — znění ZSPU účinné od 1. 1. 2027 a legislativní historie § 10 odst. 3.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
-- Aktualizaci spouští změna znění (zejména k 1. 1. 2027), doplnění složky `judikatura/`, nové nebo překonané rozhodnutí, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
+- Aktualizaci spouští změna znění (zejména k 1. 1. 2027), doplnění dalších karet do složky `judikatura/`, nové nebo překonané rozhodnutí, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
 - Tvrzení bez místní opory označte jako hypotézu či otevřenou otázku; absenci pramene nevydávejte za ustálené právo.
 - Po každé aktualizaci znovu ověřte časovou působnost, odkazy na zrušené předpisy (zákon č. 183/2006 Sb., obchodní zákoník), návazné předpisy a modelové příklady.
 
@@ -399,7 +402,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění a přechodná ustanovení jsou označena.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
-- [ ] Judikatura je zasazena do skutkového a procesního kontextu (po doplnění složky `judikatura/`).
+- [ ] Judikatura je zasazena do skutkového a procesního kontextu (u karty NS 32 Cdo 3237/2019 je výslovně uvedeno, že karta tento kontext neobsahuje).
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.
