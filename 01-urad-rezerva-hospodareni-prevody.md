@@ -265,6 +265,11 @@ Bylo-li zahájeno řízení podle odst. 3 a před jeho skončením požádala o 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 3237/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2776664F77C426A5C1258703001870CF?openDocument) — 25. 3. 2021, kat. A
+  > „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky"
+
 #### Okruh majetku (odst. 1–3)
 
 SPÚ je příslušný hospodařit (1) s nemovitostmi, které ke dni předcházejícímu účinnosti zákona (tj. k 31. 12. 2012) spravoval Pozemkový fond České republiky podle jiného předpisu (pozn. 4 odkazuje na zákon č. 229/1991 Sb. a zákon č. 290/2002 Sb.), (2) s majetkem nabytým v souladu se zákonem č. 219/2000 Sb., (3) se stavbami k vodohospodářským melioracím pozemků a souvisejícími vodními díly ve vlastnictví státu — buď převzatými od fondu, nebo (nespravoval-li je fond) ex lege ode dne účinnosti zákona, a (4) s hlavními závlahovými a odvodňovacími zařízeními a stavbami k ochraně před erozní činností vody, které sám pořizuje výstavbou nebo nabytím do majetku státu.
@@ -788,6 +793,11 @@ U fyzických osob zákon nevyžaduje status zemědělského podnikatele — rozh
 > (5) Na základě písemné žádosti převede Státní pozemkový úřad vlastníkovi, popřípadě spoluvlastníkovi pozemku, jehož součástí je stavba, která byla do 31. prosince 2013 samostatnou nemovitostí, sousedící zemědělský pozemek, který je se stavbou funkčně spojen a žadatel je jeho oprávněným uživatelem, nebo oddělenou část takového pozemku v podobě parcely. Státní pozemkový úřad může tomuto vlastníkovi, popřípadě spoluvlastníkovi pozemku převést jiný zemědělský pozemek, který je se stavbou funkčně spojen a žadatel je jeho oprávněným uživatelem, nebo oddělenou část tohoto pozemku v podobě parcely.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 3237/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2776664F77C426A5C1258703001870CF?openDocument) — 25. 3. 2021, kat. A
+  > „Na nakládání Státního pozemkového úřadu s pozemky, k nimž mu přísluší právo hospodaření, se ustanovení § 60a zákona č. 219/2000 Sb., ve znění pozdější předpisů, nevztahuje a nelze je aplikovat ani analogicky"
 
 #### Úplatnost a způsobilost nabyvatele
 
